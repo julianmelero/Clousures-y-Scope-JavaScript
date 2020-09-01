@@ -1,1 +1,1 @@
-#Clousures and Scope in JavaScript
+# Clousures and Scope in JavaScript
